@@ -5,7 +5,7 @@
 リストに入って無くてオススメのアニメがあればissueなりpull reqください．（観るとは言ってない）
 
 # 2022
-## Summer(now)
+## Summer (now)
 - リコリス・リコイル 
 
 ## Spring
@@ -389,10 +389,13 @@
 - HELLSING OVA
 - 攻殻機動隊 STAND ALONE COMPLEX Solid State Society
 - パプリカ
-- 機動戦士ガンダム MS IGLOO MS IGLOO -黙示録0079-
+- 機動戦士ガンダム MS IGLOO -黙示録0079-
 
 ## Spring
 - BLACK LAGOON
+
+## Winter
+- Ergo Proxy（2006 2.25 ~ 2006 8.12/全23話）
 
 <!-- =============================================================================== -->
 
@@ -406,7 +409,7 @@
 ## OVA/movie
 - トップをねらえ2！
 - イノセンス
-- 機動戦士ガンダム MS IGLOO MS IGLOO -1年戦争秘録-
+- 機動戦士ガンダム MS IGLOO -1年戦争秘録-
 
 ## Autumn
 - ローゼンメイデン
