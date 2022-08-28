@@ -43,6 +43,7 @@
 ## OVA/movie 
 - BURN THE WITCH 
 - 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド
+- PSYCHO-PASS サイコパス 3 FIRST INSPECTOR
 
 ## Autumn
 - ご注文はうさぎですか？ BLOOM 
@@ -377,7 +378,7 @@
 
 ## Spring
 - らき☆すた（~2007夏/全24話）
-- DARKER THAN BLACK-黒の契約者-（~2007夏全26話）
+- DARKER THAN BLACK-黒の契約者-（~2007夏/全26話）
 
 ## Winter
 - ひだまりスケッチ
