@@ -50,6 +50,7 @@
 
 ## Autumn
 - ご注文はうさぎですか？ BLOOM 
+- ストライクウィッチーズ ROAD to BERLIN
 
 ## Spring
 - 波よ聞いてくれ
