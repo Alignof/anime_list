@@ -8,7 +8,14 @@
 ## OVA/movie 
 - 永遠の831
 
-## Summer (now)
+## Autumn (now)
+- 機動戦士ガンダム 水星の魔女
+- PUI PUI モルカー DRIVING SCHOOL
+- ぼっち・ざ・ろっく！
+- ヤマノススメ Next Summit
+- Do It Yourself!! -どぅー・いっと・ゆあせるふ-
+
+## Summer
 - リコリス・リコイル
 
 ## Spring
