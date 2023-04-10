@@ -7,6 +7,7 @@
 # 2023
 ## OVA/movie 
 - アイカツ！ 10th STORY ～未来へのSTARWAY～
+- プリンセス・プリンシパル Crown Handler 3章
 
 # 2022
 ## OVA/movie 
