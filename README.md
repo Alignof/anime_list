@@ -65,6 +65,7 @@
 - BURN THE WITCH 
 - 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド
 - PSYCHO-PASS サイコパス 3 FIRST INSPECTOR
+- アイカツオンパレード！ドリームストーリー
 
 ## Autumn
 - ご注文はうさぎですか？ BLOOM 
