@@ -8,6 +8,7 @@
 ## OVA/movie 
 - アイカツ！ 10th STORY ～未来へのSTARWAY～
 - プリンセス・プリンシパル Crown Handler 3章
+- 君たちはどう生きるか
 
 ## Spring (now)
 - 機動戦士ガンダム 水星の魔女 Season2
