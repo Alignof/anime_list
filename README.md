@@ -507,6 +507,7 @@
 # 2002
 ## OVA/movie
 - 千年女優
+- WXIII機動警察パトレイバー
 
 ## Autumn
 - 攻殻機動隊 STAND ALONE COMPLEX（~2003冬/全26話）
