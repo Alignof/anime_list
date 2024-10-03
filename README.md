@@ -472,6 +472,7 @@
 - 攻殻機動隊 STAND ALONE COMPLEX Solid State Society
 - パプリカ
 - 機動戦士ガンダム MS IGLOO -黙示録0079-
+- 映画ふたりはプリキュアSplash☆Star チクタク危機一髪！
 
 ## Spring
 - BLACK LAGOON
