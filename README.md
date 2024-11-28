@@ -513,6 +513,9 @@
 ## Autumn
 - ローゼンメイデン
 
+## Spring
+- 頭文字D Fourth Stage（全24話）
+
 ## Winter
 - 攻殻機動隊 S.A.C. 2nd GIG（~2004春/全26話）
 - 妄想代理人
