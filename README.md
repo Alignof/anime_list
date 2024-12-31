@@ -295,6 +295,7 @@
 - 攻殻機動隊 ARISE 	Ghost Stands Alone
 - ペンギンズ FROM マダガスカル ザ・ムービー
 - 劇場版 アイカツ!
+- 頭文字D Final Stage
 
 ## Autumn
 - PSYCHO-PASS サイコパス 2
