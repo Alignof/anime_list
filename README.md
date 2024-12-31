@@ -428,6 +428,7 @@
 ## OVA/movie
 - スカイ・クロラ　The Sky Crawlers
 - ヱヴァンゲリヲン新劇場版 『破』
+- 映画プリキュアオールスターズＤＸ みんなともだちっ☆奇跡の全員大集合！
 
 ## Autumn
 - DARKER THAN BLACK-流星の双子-
