@@ -5,6 +5,9 @@
 リストに入って無くてオススメのアニメがあればissueなりpull reqください．（観るとは言ってない）
 
 # 2025
+## OVA/movie 
+- 機動戦士Gundam GQuuuuuuX -Beginning-
+
 ## Winter
 - BanG Dream! Ave Mujica
 - 魔法つかいプリキュア！！～MIRAI DAYS～
