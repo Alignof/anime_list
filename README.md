@@ -8,6 +8,7 @@
 ## Winter
 - BanG Dream! Ave Mujica
 - 魔法つかいプリキュア！！～MIRAI DAYS～
+- キミとアイドルプリキュア♪
 
 # 2024
 ## OVA/movie 
