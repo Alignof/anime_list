@@ -7,6 +7,7 @@
 # 2025
 ## Winter
 - BanG Dream! Ave Mujica
+- 魔法つかいプリキュア！！～MIRAI DAYS～
 
 # 2024
 ## OVA/movie 
