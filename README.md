@@ -8,6 +8,9 @@
 ## OVA/movie 
 - 機動戦士Gundam GQuuuuuuX -Beginning-
 
+## Spring
+- ぷちきゅあ～Precure Fairies～
+
 ## Winter
 - BanG Dream! Ave Mujica
 - 魔法つかいプリキュア！！～MIRAI DAYS～
