@@ -10,6 +10,7 @@
 
 ## Spring
 - ぷちきゅあ～Precure Fairies～
+- プリンセッション・オーケストラ
 
 ## Winter
 - BanG Dream! Ave Mujica
