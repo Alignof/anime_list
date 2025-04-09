@@ -11,6 +11,7 @@
 ## Spring
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
+- ひみつのアイプリ リング編
 
 ## Winter
 - BanG Dream! Ave Mujica
