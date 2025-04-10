@@ -9,6 +9,7 @@
 - 機動戦士Gundam GQuuuuuuX -Beginning-
 
 ## Spring
+- LAZARUS ラザロ
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
