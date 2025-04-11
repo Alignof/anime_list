@@ -10,6 +10,7 @@
 
 ## Spring
 - LAZARUS ラザロ
+- 機動戦士Gundam GQuuuuuuX
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
@@ -45,7 +46,7 @@
 - キボウノチカラ〜オトナプリキュア'23〜
 - 星屑テレパス
 
-## Summer
+# Summer
 - BanG Dream! It's MyGO!!!!!
 
 ## Spring
