@@ -11,6 +11,7 @@
 ## Spring
 - LAZARUS ラザロ
 - 機動戦士Gundam GQuuuuuuX
+- ギャグマンガ日和GO
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
