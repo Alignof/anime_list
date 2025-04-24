@@ -12,6 +12,7 @@
 - LAZARUS ラザロ
 - 機動戦士Gundam GQuuuuuuX
 - ギャグマンガ日和GO
+- mono
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
