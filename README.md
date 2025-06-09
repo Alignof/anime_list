@@ -16,6 +16,7 @@
 - ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
+- リコリス・リコイル Friends are thieves of time.
 
 ## Winter
 - BanG Dream! Ave Mujica
