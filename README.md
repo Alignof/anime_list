@@ -7,6 +7,7 @@
 # 2025
 ## OVA/movie 
 - 機動戦士Gundam GQuuuuuuX -Beginning-
+- プリンセス・プリンシパル Crown Handler 4章
 
 ## Spring
 - LAZARUS ラザロ
