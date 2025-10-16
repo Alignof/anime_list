@@ -12,6 +12,7 @@
 - 機動戦士Gundam GQuuuuuuX -Beginning-
 - プリンセス・プリンシパル Crown Handler 4章
 - 映画 キミとアイドルプリキュア♪ お待たせ!キミに届けるキラッキライブ!
+- アイカツ!×プリパラ THE MOVIE -出会いのキセキ!-
 
 ## Spring
 
