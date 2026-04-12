@@ -17,6 +17,7 @@
 ## Spring
 
 - 魔法の姉妹ルルットリリィ
+- おねがいアイプリ
 
 ## Winter
 
@@ -38,7 +39,6 @@
 - 機動戦士Gundam GQuuuuuuX
 - ギャグマンガ日和GO
 - mono
-- ぷちきゅあ～Precure Fairies～
 - プリンセッション・オーケストラ
 - ひみつのアイプリ リング編
 - リコリス・リコイル Friends are thieves of time.
