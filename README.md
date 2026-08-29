@@ -16,6 +16,10 @@
 - 機動警察パトレイバー EZY File 2
 - 劇場版 魔法少女まどか☆マギカ 〈ワルプルギスの廻天〉
 
+## Summer
+
+- 攻殻機動隊 THE GHOST IN THE SHELL
+
 ## Spring
 
 - 魔法の姉妹ルルットリリィ
